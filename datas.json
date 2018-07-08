@@ -1,0 +1,40 @@
+{
+    "supportlist": [
+        {
+            "name": "BitZeny",
+            "code": "ZNY",
+            "dir": "BitZeny",
+            "data": [
+                "addnode=115.187.65.68",
+                "addnode=160.16.210.208",
+                "addnode=198.13.48.158",
+                "addnode=203.152.216.75",
+                "addnode=203.152.216.76",
+                "addnode=203.152.216.77",
+                "addnode=210.129.8.84",
+                "addnode=219.102.81.176",
+                "addnode=39.110.103.199",
+                "addnode=58.80.51.70",
+                "addnode=72.46.135.174"
+            ]
+        },
+        {
+            "name": "SanDego",
+            "code": "SDGO",
+            "dir": "SanDeGo",
+            "data": [
+                "addnode=60.44.103.124",
+                "addnode=218.42.103.80",
+                "addnode=51.15.237.19",
+                "addnode=153.232.210.11",
+                "addnode=126.116.185.89",
+                "addnode=202.182.106.254",
+                "addnode=59.166.43.148",
+                "addnode=121.3.48.45",
+                "addnode=126.5.245.117",
+                "addnode=222.6.55.90",
+                "addnode=106.186.34.78"
+            ]
+        }
+    ]
+}
